@@ -1,0 +1,222 @@
+{
+  "activity": "Software for freight, logistics and supply-chain operations",
+  "stage": "seed",
+  "country": "India",
+  "since": "2025-05-16",
+  "as_of": "2026-11-16",
+  "investments": [
+    {
+      "company": "Stackbox",
+      "investor": "Enrission India Capital",
+      "round_date": "2025-11-05",
+      "stage": "undisclosed",
+      "country": "India",
+      "fit_reason": "Deeptech logistics SaaS company developing AI-driven warehouse management (WMS) and transportation management (TMS) systems",
+      "source_url": "https://yourstory.com/2025/11/startup-news-and-updates-daily-roundup-november-5-2025-paytm-groq",
+      "comparable": true,
+      "lead_partner": null
+    },
+    {
+      "company": "Raaho",
+      "investor": "Enrission India Capital",
+      "round_date": "2026-10-21",
+      "stage": "undisclosed",
+      "country": "India",
+      "fit_reason": "Technology platform connecting truck owners, replacing the offline broker model with digital freight matching, verification and settlement",
+      "source_url": "https://vccircle.com/vectorialonto-raaho-pocket-early-stage-funding",
+      "comparable": true,
+      "lead_partner": null
+    },
+    {
+      "company": "Xportel",
+      "investor": "Flipkart Ventures",
+      "round_date": "2025-06-17",
+      "stage": "seed",
+      "country": "India",
+      "fit_reason": "Digital platform helping Indian SMEs and e-commerce brands manage export processes including compliance, logistics and documentation",
+      "source_url": "https://yourstory.com/2025/06/startup-news-and-updates-daily-roundup-june-17-2025",
+      "comparable": true,
+      "lead_partner": null
+    },
+    {
+      "company": "Airbound",
+      "investor": "Humba Ventures",
+      "round_date": "2025-10-14",
+      "stage": "seed",
+      "country": "India",
+      "fit_reason": "Autonomous delivery logistics firm building blended-wing-body drones for cargo and medical supply delivery",
+      "source_url": "https://entrackr.com/snippets/airbound-raises-865-mn-in-seed-funding-round-10561322",
+      "comparable": true,
+      "lead_partner": null
+    },
+    {
+      "company": "Stride Green",
+      "investor": "Incubate Fund Asia",
+      "round_date": "2025-06-05",
+      "stage": "seed",
+      "country": "India",
+      "fit_reason": "Provides a tech-enabled leasing, financing and lifecycle management platform for EV and clean-tech assets serving logistics, mobility and ecommerce fleets",
+      "source_url": "https://entrackr.com/snippets/stride-green-raises-35-mn-in-seed-round-9336653",
+      "comparable": true,
+      "lead_partner": null
+    },
+    {
+      "company": "Airbound",
+      "investor": "Lachy Groom",
+      "round_date": "2025-10-14",
+      "stage": "seed",
+      "country": "India",
+      "fit_reason": "Autonomous delivery logistics firm building blended-wing-body drones for cargo and medical supply delivery",
+      "source_url": "https://entrackr.com/snippets/airbound-raises-865-mn-in-seed-funding-round-10561322",
+      "comparable": true,
+      "lead_partner": null
+    },
+    {
+      "company": "Airbound",
+      "investor": "Lightspeed",
+      "round_date": "2025-10-14",
+      "stage": "seed",
+      "country": "India",
+      "fit_reason": "Autonomous delivery logistics firm building blended-wing-body drones for cargo and medical supply delivery",
+      "source_url": "https://entrackr.com/snippets/airbound-raises-865-mn-in-seed-funding-round-10561322",
+      "comparable": true,
+      "lead_partner": null
+    },
+    {
+      "company": "Stride Green",
+      "investor": "Micelio Technology Fund",
+      "round_date": "2025-06-05",
+      "stage": "seed",
+      "country": "India",
+      "fit_reason": "Provides a tech-enabled leasing, financing and lifecycle management platform for EV and clean-tech assets serving logistics, mobility and ecommerce fleets",
+      "source_url": "https://entrackr.com/snippets/stride-green-raises-35-mn-in-seed-round-9336653",
+      "comparable": true,
+      "lead_partner": null
+    },
+    {
+      "company": "Xportel",
+      "investor": "Rukam Sitara",
+      "round_date": "2025-06-17",
+      "stage": "seed",
+      "country": "India",
+      "fit_reason": "Digital platform helping Indian SMEs and e-commerce brands manage export processes including compliance, logistics and documentation",
+      "source_url": "https://yourstory.com/2025/06/startup-news-and-updates-daily-roundup-june-17-2025",
+      "comparable": true,
+      "lead_partner": null
+    },
+    {
+      "company": "QuikApp",
+      "investor": "Vehra Ventures",
+      "round_date": "2026-10-01",
+      "stage": "seed",
+      "country": "India",
+      "fit_reason": "AI-powered logistics platform connecting real-time fleet tracking, shipment visibility, automated dispatch and route optimisation for enterprise logistics",
+      "source_url": "https://entrepreneur.economictimes.indiatimes.com/news/funding/quikapp-raises-seed-funding-from-vehra-ventures/134610137",
+      "comparable": true,
+      "lead_partner": null
+    },
+    {
+      "company": "Xportel",
+      "investor": "Venture Catalysts",
+      "round_date": "2025-06-17",
+      "stage": "seed",
+      "country": "India",
+      "fit_reason": "Digital platform helping Indian SMEs and e-commerce brands manage export processes including compliance, logistics and documentation",
+      "source_url": "https://yourstory.com/2025/06/startup-news-and-updates-daily-roundup-june-17-2025",
+      "comparable": true,
+      "lead_partner": null
+    },
+    {
+      "company": "FreightFox",
+      "investor": "Aeravti Ventures",
+      "round_date": "2026-08-11",
+      "stage": "strategic funding",
+      "country": "India",
+      "fit_reason": "Logistics-tech startup consolidating the freight lifecycle into a single platform, from procurement and execution to tracking, invoice settlement and sustainability reporting",
+      "source_url": "https://vccircle.com/ayatidevices-vecton-ai-freightfox-raise-early-stage-capital",
+      "comparable": true,
+      "lead_partner": null
+    },
+    {
+      "company": "Dispatch Network",
+      "investor": "Antler India",
+      "round_date": "2026-11-02",
+      "stage": "pre-seed",
+      "country": "India",
+      "fit_reason": "Builds AI-powered software for last-mile delivery network operations",
+      "source_url": "https://inc42.com/buzz/from-giva-to-eloelo-group-indian-startups-raised-255-mn-this-week",
+      "comparable": true,
+      "lead_partner": null,
+      "typical_cheque": "Up to approximately US$425,000 (standard India deal terms)",
+      "typical_stage": "pre-seed",
+      "profile_source_url": "https://www.antler.co/location/india",
+      "intake_url": "https://www.antler.co/pitch"
+    },
+    {
+      "company": "Quickshift",
+      "investor": "Atomic Capital",
+      "round_date": "2025-11-11",
+      "stage": "undisclosed",
+      "country": "India",
+      "fit_reason": "AI-led fulfilment platform offering full-stack supply chain and fulfilment services for D2C and ecommerce brands",
+      "source_url": "https://m.economictimes.com/tech/funding/logistics-platform-quickshift-raises-2-4-million-from-atomic-capital-others/articleshow/125248271.cms",
+      "comparable": true,
+      "lead_partner": null
+    },
+    {
+      "company": "Quickshift",
+      "investor": "Axilor Ventures",
+      "round_date": "2025-11-11",
+      "stage": "undisclosed",
+      "country": "India",
+      "fit_reason": "AI-led fulfilment platform offering full-stack supply chain and fulfilment services for D2C and ecommerce brands",
+      "source_url": "https://m.economictimes.com/tech/funding/logistics-platform-quickshift-raises-2-4-million-from-atomic-capital-others/articleshow/125248271.cms",
+      "comparable": true,
+      "lead_partner": null
+    },
+    {
+      "company": "FreightFox",
+      "investor": "HighLeaf",
+      "round_date": "2026-08-11",
+      "stage": "strategic funding",
+      "country": "India",
+      "fit_reason": "Logistics-tech startup consolidating the freight lifecycle into a single platform, from procurement and execution to tracking, invoice settlement and sustainability reporting",
+      "source_url": "https://vccircle.com/ayatidevices-vecton-ai-freightfox-raise-early-stage-capital",
+      "comparable": true,
+      "lead_partner": null
+    },
+    {
+      "company": "Pidge",
+      "investor": "La Vida es Chula (LVEC)",
+      "round_date": "2025-11-19",
+      "stage": "undisclosed",
+      "country": "India",
+      "fit_reason": "Builds an interoperable last-mile logistics operating system for India, expanding across Tier 2 and 3 cities",
+      "source_url": "https://vccircle.com/tractorjunction-pidge-hoopr-secure-early-stage-funds",
+      "comparable": true,
+      "lead_partner": null
+    },
+    {
+      "company": "FreightFox",
+      "investor": "Puru Gupta",
+      "round_date": "2026-08-11",
+      "stage": "strategic funding",
+      "country": "India",
+      "fit_reason": "Logistics-tech startup consolidating the freight lifecycle into a single platform, from procurement and execution to tracking, invoice settlement and sustainability reporting",
+      "source_url": "https://vccircle.com/ayatidevices-vecton-ai-freightfox-raise-early-stage-capital",
+      "comparable": true,
+      "lead_partner": null
+    },
+    {
+      "company": "FreightFox",
+      "investor": "Vijender Yadav",
+      "round_date": "2026-08-11",
+      "stage": "strategic funding",
+      "country": "India",
+      "fit_reason": "Logistics-tech startup consolidating the freight lifecycle into a single platform, from procurement and execution to tracking, invoice settlement and sustainability reporting",
+      "source_url": "https://vccircle.com/ayatidevices-vecton-ai-freightfox-raise-early-stage-capital",
+      "comparable": true,
+      "lead_partner": null
+    }
+  ]
+}
